@@ -1,0 +1,7 @@
+subtracao = a + b
+
+a = 8
+
+b = 7
+
+printf(subtracao)
