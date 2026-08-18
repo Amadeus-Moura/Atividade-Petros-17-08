@@ -1,4 +1,4 @@
-A = 20
+a = 20
 b = 30
 
 subtracao = a - b
